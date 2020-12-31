@@ -3,11 +3,13 @@
 I'm Vincent. I work with open-source for so many years and I love to discover, contribute and share new things with other developers!
 
 #### 🌱 My latest projects
+
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 📜 My recent blog posts
+
 {{range rss "https://vincent.composieux.fr/blog/en.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
