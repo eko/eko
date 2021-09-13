@@ -23,9 +23,9 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
+- [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) ([v1.2.0](https://github.com/graph-gophers/graphql-go/releases/tag/v1.2.0), today) - GraphQL server with a focus on ease of use
 - [etf1/kafka-message-scheduler](https://github.com/etf1/kafka-message-scheduler) ([v0.0.4](https://github.com/etf1/kafka-message-scheduler/releases/tag/v0.0.4), 1 week ago) - Kafka message scheduler for kafka messages
 - [buger/goreplay](https://github.com/buger/goreplay) ([v1.3.2](https://github.com/buger/goreplay/releases/tag/v1.3.2), 3 weeks ago) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
-- [eko/gocache](https://github.com/eko/gocache) ([v2.1.0](https://github.com/eko/gocache/releases/tag/v2.1.0), 3 months ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 
 #### 💬  Feedback
 
