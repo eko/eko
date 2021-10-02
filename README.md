@@ -23,9 +23,9 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/tado-exporter](https://github.com/eko/tado-exporter) ([v0.0.7](https://github.com/eko/tado-exporter/releases/tag/v0.0.7), 1 day ago) - A Prometheus exporter for tado smart heating solution
+- [eko/tado-exporter](https://github.com/eko/tado-exporter) ([v0.0.7](https://github.com/eko/tado-exporter/releases/tag/v0.0.7), 2 days ago) - A Prometheus exporter for tado smart heating solution
 - [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) ([v1.2.0](https://github.com/graph-gophers/graphql-go/releases/tag/v1.2.0), 2 weeks ago) - GraphQL server with a focus on ease of use
-- [etf1/kafka-message-scheduler](https://github.com/etf1/kafka-message-scheduler) ([v0.0.4](https://github.com/etf1/kafka-message-scheduler/releases/tag/v0.0.4), 4 weeks ago) - Kafka message scheduler for kafka messages
+- [etf1/kafka-message-scheduler](https://github.com/etf1/kafka-message-scheduler) ([v0.0.4](https://github.com/etf1/kafka-message-scheduler/releases/tag/v0.0.4), 1 month ago) - Kafka message scheduler for kafka messages
 
 #### 💬  Feedback
 
