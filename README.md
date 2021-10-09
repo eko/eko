@@ -23,8 +23,8 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [buger/goreplay](https://github.com/buger/goreplay) ([1.3.3](https://github.com/buger/goreplay/releases/tag/1.3.3), 2 days ago) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
-- [eko/tado-exporter](https://github.com/eko/tado-exporter) ([v0.0.8](https://github.com/eko/tado-exporter/releases/tag/v0.0.8), 5 days ago) - A Prometheus exporter for tado smart heating solution
+- [buger/goreplay](https://github.com/buger/goreplay) ([1.3.3](https://github.com/buger/goreplay/releases/tag/1.3.3), 3 days ago) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+- [eko/tado-exporter](https://github.com/eko/tado-exporter) ([v0.0.8](https://github.com/eko/tado-exporter/releases/tag/v0.0.8), 6 days ago) - A Prometheus exporter for tado smart heating solution
 - [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) ([v1.2.0](https://github.com/graph-gophers/graphql-go/releases/tag/v1.2.0), 3 weeks ago) - GraphQL server with a focus on ease of use
 
 #### 💬  Feedback
