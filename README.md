@@ -23,9 +23,9 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [etf1/opentelemetry-go-contrib](https://github.com/etf1/opentelemetry-go-contrib) ([instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent/v1.0.0](https://github.com/etf1/opentelemetry-go-contrib/releases/tag/instrumentation%2Fgithub.com%2Fconfluentinc%2Fconfluent-kafka-go%2Fotelconfluent%2Fv1.0.0), today) - Instrumentations of third-party libraries using opentelemetry-go library
-- [etf1/kafka-mongo-watcher](https://github.com/etf1/kafka-mongo-watcher) ([v0.2.0](https://github.com/etf1/kafka-mongo-watcher/releases/tag/v0.2.0), today) - A MongoDB collection watcher that pushes oplog events into Kafka
-- [etf1/kafka-transformer](https://github.com/etf1/kafka-transformer) ([v0.0.5](https://github.com/etf1/kafka-transformer/releases/tag/v0.0.5), 5 days ago) - kafka-transformer is a library for simplyfing message transformation tasks when using kafka
+- [etf1/opentelemetry-go-contrib](https://github.com/etf1/opentelemetry-go-contrib) ([instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent/v1.0.0](https://github.com/etf1/opentelemetry-go-contrib/releases/tag/instrumentation%2Fgithub.com%2Fconfluentinc%2Fconfluent-kafka-go%2Fotelconfluent%2Fv1.0.0), 1 day ago) - Instrumentations of third-party libraries using opentelemetry-go library
+- [etf1/kafka-mongo-watcher](https://github.com/etf1/kafka-mongo-watcher) ([v0.2.0](https://github.com/etf1/kafka-mongo-watcher/releases/tag/v0.2.0), 1 day ago) - A MongoDB collection watcher that pushes oplog events into Kafka
+- [etf1/kafka-transformer](https://github.com/etf1/kafka-transformer) ([v0.0.5](https://github.com/etf1/kafka-transformer/releases/tag/v0.0.5), 6 days ago) - kafka-transformer is a library for simplyfing message transformation tasks when using kafka
 
 #### 💬  Feedback
 
