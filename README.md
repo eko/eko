@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v0.1.0](https://github.com/eko/pihole-exporter/releases/tag/v0.1.0), 2 days ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
+- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v0.1.0](https://github.com/eko/pihole-exporter/releases/tag/v0.1.0), 3 days ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
 - [etf1/kafka-mongo-watcher](https://github.com/etf1/kafka-mongo-watcher) ([v0.2.2](https://github.com/etf1/kafka-mongo-watcher/releases/tag/v0.2.2), 1 month ago) - A MongoDB collection watcher that pushes oplog events into Kafka
 - [etf1/opentelemetry-go-contrib](https://github.com/etf1/opentelemetry-go-contrib) ([instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent/v1.0.0](https://github.com/etf1/opentelemetry-go-contrib/releases/tag/instrumentation%2Fgithub.com%2Fconfluentinc%2Fconfluent-kafka-go%2Fotelconfluent%2Fv1.0.0), 1 month ago) - Instrumentations of third-party libraries using opentelemetry-go library
 
