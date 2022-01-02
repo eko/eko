@@ -23,8 +23,8 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/monday](https://github.com/eko/monday) ([v2.1.1](https://github.com/eko/monday/releases/tag/v2.1.1), today) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
-- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v0.1.1](https://github.com/eko/pihole-exporter/releases/tag/v0.1.1), 5 days ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
+- [eko/monday](https://github.com/eko/monday) ([v2.1.1](https://github.com/eko/monday/releases/tag/v2.1.1), 1 day ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
+- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v0.1.1](https://github.com/eko/pihole-exporter/releases/tag/v0.1.1), 6 days ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
 - [etf1/kafka-mongo-watcher](https://github.com/etf1/kafka-mongo-watcher) ([v0.2.2](https://github.com/etf1/kafka-mongo-watcher/releases/tag/v0.2.2), 1 month ago) - A MongoDB collection watcher that pushes oplog events into Kafka
 
 #### 💬  Feedback
