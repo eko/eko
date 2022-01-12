@@ -15,7 +15,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 
 
 - [OpenTelemetry: Trace and instrument your application code](https://vincent.composieux.fr/article/opentelemetry-trace-and-instrument-your-application-code) (1 month ago)
-- [Redis: Filter and sort your data in a SQL-like way using SORT](https://vincent.composieux.fr/article/redis-filter-and-sort-your-data-in-a-sql-like-way-using-sort) (11 months ago)
+- [Redis: Filter and sort your data in a SQL-like way using SORT](https://vincent.composieux.fr/article/redis-filter-and-sort-your-data-in-a-sql-like-way-using-sort) (1 year ago)
 - [Add automatic monitoring of your local applications with Monday](https://vincent.composieux.fr/article/add-automatic-monitoring-of-your-local-applications-with-monday) (1 year ago)
 - [How to create your own Terraform plugin provider](https://vincent.composieux.fr/article/create-a-provider-plugin-for-terraform) (2 years ago)
 - [I wrote Gocache: a complete and extensible Go cache library](https://vincent.composieux.fr/article/i-wrote-gocache-a-complete-and-extensible-go-cache-library) (2 years ago)
@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [Justintime50/homebrew-releaser](https://github.com/Justintime50/homebrew-releaser) ([v0.11.0](https://github.com/Justintime50/homebrew-releaser/releases/tag/v0.11.0), 3 days ago) - Release scripts, binaries, and executables directly to Homebrew via GitHub Actions.
+- [Justintime50/homebrew-releaser](https://github.com/Justintime50/homebrew-releaser) ([v0.11.0](https://github.com/Justintime50/homebrew-releaser/releases/tag/v0.11.0), 4 days ago) - Release scripts, binaries, and executables directly to Homebrew via GitHub Actions.
 - [eko/monday](https://github.com/eko/monday) ([v2.1.1](https://github.com/eko/monday/releases/tag/v2.1.1), 1 week ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 - [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v0.1.1](https://github.com/eko/pihole-exporter/releases/tag/v0.1.1), 2 weeks ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
 
