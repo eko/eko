@@ -23,9 +23,9 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
+- [buger/goreplay](https://github.com/buger/goreplay) ([v2.0.0-rc2](https://github.com/buger/goreplay/releases/tag/v2.0.0-rc2), today) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [eko/gocache](https://github.com/eko/gocache) ([v2.2.0](https://github.com/eko/gocache/releases/tag/v2.2.0), 2 weeks ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) ([v1.3.0](https://github.com/graph-gophers/graphql-go/releases/tag/v1.3.0), 2 weeks ago) - GraphQL server with a focus on ease of use
-- [eko/monday](https://github.com/eko/monday) ([v2.1.2](https://github.com/eko/monday/releases/tag/v2.1.2), 3 weeks ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 
 #### 💬  Feedback
 
