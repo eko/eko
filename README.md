@@ -23,8 +23,8 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v0.2.0](https://github.com/eko/pihole-exporter/releases/tag/v0.2.0), 2 days ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
-- [buger/goreplay](https://github.com/buger/goreplay) ([v2.0.0-rc2](https://github.com/buger/goreplay/releases/tag/v2.0.0-rc2), 6 days ago) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v0.2.0](https://github.com/eko/pihole-exporter/releases/tag/v0.2.0), 3 days ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
+- [buger/goreplay](https://github.com/buger/goreplay) ([v2.0.0-rc2](https://github.com/buger/goreplay/releases/tag/v2.0.0-rc2), 1 week ago) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [eko/gocache](https://github.com/eko/gocache) ([v2.2.0](https://github.com/eko/gocache/releases/tag/v2.2.0), 3 weeks ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 
 #### 💬  Feedback
