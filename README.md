@@ -14,11 +14,11 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 📜  My recent blog posts
 
 
+- [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (today)
 - [OpenTelemetry: Trace and instrument your application code](https://vincent.composieux.fr/article/opentelemetry-trace-and-instrument-your-application-code) (3 months ago)
 - [Redis: Filter and sort your data in a SQL-like way using SORT](https://vincent.composieux.fr/article/redis-filter-and-sort-your-data-in-a-sql-like-way-using-sort) (1 year ago)
 - [Add automatic monitoring of your local applications with Monday](https://vincent.composieux.fr/article/add-automatic-monitoring-of-your-local-applications-with-monday) (1 year ago)
 - [How to create your own Terraform plugin provider](https://vincent.composieux.fr/article/create-a-provider-plugin-for-terraform) (2 years ago)
-- [I wrote Gocache: a complete and extensible Go cache library](https://vincent.composieux.fr/article/i-wrote-gocache-a-complete-and-extensible-go-cache-library) (2 years ago)
 
 #### 🔭  Latest releases I've contributed to
 
