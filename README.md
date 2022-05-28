@@ -14,7 +14,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 📜  My recent blog posts
 
 
-- [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (2 months ago)
+- [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (3 months ago)
 - [OpenTelemetry: Trace and instrument your application code](https://vincent.composieux.fr/article/opentelemetry-trace-and-instrument-your-application-code) (6 months ago)
 - [Redis: Filter and sort your data in a SQL-like way using SORT](https://vincent.composieux.fr/article/redis-filter-and-sort-your-data-in-a-sql-like-way-using-sort) (1 year ago)
 - [Add automatic monitoring of your local applications with Monday](https://vincent.composieux.fr/article/add-automatic-monitoring-of-your-local-applications-with-monday) (2 years ago)
@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/gocache](https://github.com/eko/gocache) ([v3.0.0](https://github.com/eko/gocache/releases/tag/v3.0.0), 1 day ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
+- [eko/gocache](https://github.com/eko/gocache) ([v3.0.0](https://github.com/eko/gocache/releases/tag/v3.0.0), 2 days ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [eko/monday](https://github.com/eko/monday) ([v2.2.0](https://github.com/eko/monday/releases/tag/v2.2.0), 2 months ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 - [etf1/kafka-mongo-watcher](https://github.com/etf1/kafka-mongo-watcher) ([v0.3.4](https://github.com/etf1/kafka-mongo-watcher/releases/tag/v0.3.4), 3 months ago) - A MongoDB collection watcher that pushes oplog events into Kafka
 
