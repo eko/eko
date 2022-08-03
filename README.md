@@ -14,7 +14,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 📜  My recent blog posts
 
 
-- [Distribute the rows of a SQL table between several multi-instantiated applications](https://vincent.composieux.fr/article/distribute-the-rows-of-a-sql-table-between-several multi-instantiated-applications) (2 weeks ago)
+- [Distribute the rows of a SQL table between several multi-instantiated applications](https://vincent.composieux.fr/article/distribute-the-rows-of-a-sql-table-between-several multi-instantiated-applications) (3 weeks ago)
 - [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (5 months ago)
 - [OpenTelemetry: Trace and instrument your application code](https://vincent.composieux.fr/article/opentelemetry-trace-and-instrument-your-application-code) (8 months ago)
 - [Redis: Filter and sort your data in a SQL-like way using SORT](https://vincent.composieux.fr/article/redis-filter-and-sort-your-data-in-a-sql-like-way-using-sort) (2 years ago)
@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/gocache](https://github.com/eko/gocache) ([v3.1.1](https://github.com/eko/gocache/releases/tag/v3.1.1), 2 weeks ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
+- [eko/gocache](https://github.com/eko/gocache) ([v3.1.1](https://github.com/eko/gocache/releases/tag/v3.1.1), 3 weeks ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [eko/monday](https://github.com/eko/monday) ([v2.2.0](https://github.com/eko/monday/releases/tag/v2.2.0), 4 months ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 - [etf1/kafka-mongo-watcher](https://github.com/etf1/kafka-mongo-watcher) ([v0.3.4](https://github.com/etf1/kafka-mongo-watcher/releases/tag/v0.3.4), 5 months ago) - A MongoDB collection watcher that pushes oplog events into Kafka
 
