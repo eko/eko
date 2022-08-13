@@ -5,11 +5,11 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🌱  My latest projects
 
 
+- [eko/rust-cli-skeleton](https://github.com/eko/rust-cli-skeleton) - A Rust CLI skeleton
 - [eko/book](https://github.com/eko/book) - A simple pandoc and markdown template repository for writing a book
 - [eko/tado-exporter](https://github.com/eko/tado-exporter) - A Prometheus exporter for tado smart heating solution
 - [eko/docker-gomock](https://github.com/eko/docker-gomock) - A docker image for gomock tools (mockgen, ...)
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
-- [eko/monday-app](https://github.com/eko/monday-app) - A GUI application for Monday original CLI application: https://github.com/eko/monday
 
 #### 📜  My recent blog posts
 
