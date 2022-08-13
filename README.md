@@ -23,9 +23,9 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
+- [Justintime50/homebrew-releaser](https://github.com/Justintime50/homebrew-releaser) ([v0.12.0](https://github.com/Justintime50/homebrew-releaser/releases/tag/v0.12.0), today) - Release scripts, binaries, and executables directly to Homebrew via GitHub Actions.
 - [eko/gocache](https://github.com/eko/gocache) ([v3.1.1](https://github.com/eko/gocache/releases/tag/v3.1.1), 1 month ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [eko/monday](https://github.com/eko/monday) ([v2.2.0](https://github.com/eko/monday/releases/tag/v2.2.0), 4 months ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
-- [etf1/kafka-mongo-watcher](https://github.com/etf1/kafka-mongo-watcher) ([v0.3.4](https://github.com/etf1/kafka-mongo-watcher/releases/tag/v0.3.4), 5 months ago) - A MongoDB collection watcher that pushes oplog events into Kafka
 
 #### 💬  Feedback
 
