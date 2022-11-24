@@ -15,7 +15,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 
 
 - [Distribute the rows of a SQL table between several multi-instantiated applications](https://vincent.composieux.fr/article/distribute-the-rows-of-a-sql-table-between-several-multi-instantiated-applications) (4 months ago)
-- [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (8 months ago)
+- [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (9 months ago)
 - [OpenTelemetry: Trace and instrument your application code](https://vincent.composieux.fr/article/opentelemetry-trace-and-instrument-your-application-code) (1 year ago)
 - [Redis: Filter and sort your data in a SQL-like way using SORT](https://vincent.composieux.fr/article/redis-filter-and-sort-your-data-in-a-sql-like-way-using-sort) (2 years ago)
 - [Add automatic monitoring of your local applications with Monday](https://vincent.composieux.fr/article/add-automatic-monitoring-of-your-local-applications-with-monday) (2 years ago)
@@ -23,8 +23,8 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/tado-exporter](https://github.com/eko/tado-exporter) ([v1.0.0](https://github.com/eko/tado-exporter/releases/tag/v1.0.0), 3 days ago) - A Prometheus exporter for tado smart heating solution
-- [eko/gocache](https://github.com/eko/gocache) ([v3.1.2](https://github.com/eko/gocache/releases/tag/v3.1.2), 1 week ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
+- [eko/tado-exporter](https://github.com/eko/tado-exporter) ([v1.0.0](https://github.com/eko/tado-exporter/releases/tag/v1.0.0), 4 days ago) - A Prometheus exporter for tado smart heating solution
+- [eko/gocache](https://github.com/eko/gocache) ([v3.1.2](https://github.com/eko/gocache/releases/tag/v3.1.2), 2 weeks ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [Justintime50/homebrew-releaser](https://github.com/Justintime50/homebrew-releaser) ([v0.14.1](https://github.com/Justintime50/homebrew-releaser/releases/tag/v0.14.1), 2 months ago) - Release scripts, binaries, and executables directly to Homebrew via GitHub Actions.
 
 #### 💬  Feedback
