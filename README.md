@@ -14,7 +14,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 📜  My recent blog posts
 
 
-- [Distribute the rows of a SQL table between several multi-instantiated applications](https://vincent.composieux.fr/article/distribute-the-rows-of-a-sql-table-between-several-multi-instantiated-applications) (5 months ago)
+- [Distribute the rows of a SQL table between several multi-instantiated applications](https://vincent.composieux.fr/article/distribute-the-rows-of-a-sql-table-between-several-multi-instantiated-applications) (6 months ago)
 - [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (10 months ago)
 - [OpenTelemetry: Trace and instrument your application code](https://vincent.composieux.fr/article/opentelemetry-trace-and-instrument-your-application-code) (1 year ago)
 - [Redis: Filter and sort your data in a SQL-like way using SORT](https://vincent.composieux.fr/article/redis-filter-and-sort-your-data-in-a-sql-like-way-using-sort) (2 years ago)
