@@ -5,11 +5,11 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🌱  My latest projects
 
 
+- [eko/authz-php-sdk](https://github.com/eko/authz-php-sdk) - Authz PHP SDK
+- [eko/authz-python-sdk](https://github.com/eko/authz-python-sdk) - Authz Python SDK
 - [eko/authz](https://github.com/eko/authz) - 🛡️ An authorization management backend that comes with its UI for managing both RBAC and ABAC
 - [eko/rust-cli-skeleton](https://github.com/eko/rust-cli-skeleton) - A Rust CLI skeleton
 - [eko/book](https://github.com/eko/book) - A simple pandoc and markdown template repository for writing a book
-- [eko/tado-exporter](https://github.com/eko/tado-exporter) - A Prometheus exporter for tado smart heating solution
-- [eko/docker-gomock](https://github.com/eko/docker-gomock) - A docker image for gomock tools (mockgen, ...)
 
 #### 📜  My recent blog posts
 
