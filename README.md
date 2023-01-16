@@ -7,7 +7,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 
 - [eko/authz-php-sdk](https://github.com/eko/authz-php-sdk) - Authz PHP SDK
 - [eko/authz-python-sdk](https://github.com/eko/authz-python-sdk) - Authz Python SDK
-- [eko/authz](https://github.com/eko/authz) - 🛡️ An authorization management backend that comes with its UI for managing both RBAC and ABAC
+- [eko/authz](https://github.com/eko/authz) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 - [eko/rust-cli-skeleton](https://github.com/eko/rust-cli-skeleton) - A Rust CLI skeleton
 - [eko/book](https://github.com/eko/book) - A simple pandoc and markdown template repository for writing a book
 
@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/authz](https://github.com/eko/authz) ([v0.2.1](https://github.com/eko/authz/releases/tag/v0.2.1), 1 day ago) - 🛡️ An authorization management backend that comes with its UI for managing both RBAC and ABAC
+- [eko/authz](https://github.com/eko/authz) ([v0.2.1](https://github.com/eko/authz/releases/tag/v0.2.1), 1 day ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 - [eko/gocache](https://github.com/eko/gocache) ([store/rueidis/v4.1.3](https://github.com/eko/gocache/releases/tag/store/rueidis/v4.1.3), 1 month ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [eko/tado-exporter](https://github.com/eko/tado-exporter) ([v1.0.0](https://github.com/eko/tado-exporter/releases/tag/v1.0.0), 1 month ago) - A Prometheus exporter for tado smart heating solution
 
