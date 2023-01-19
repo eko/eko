@@ -24,8 +24,8 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 
 
 - [eko/authz](https://github.com/eko/authz) ([v0.4.0](https://github.com/eko/authz/releases/tag/v0.4.0), 1 day ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
+- [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) ([v1.5.0](https://github.com/graph-gophers/graphql-go/releases/tag/v1.5.0), 1 month ago) - GraphQL server with a focus on ease of use
 - [eko/gocache](https://github.com/eko/gocache) ([store/rueidis/v4.1.3](https://github.com/eko/gocache/releases/tag/store/rueidis/v4.1.3), 1 month ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
-- [eko/tado-exporter](https://github.com/eko/tado-exporter) ([v1.0.0](https://github.com/eko/tado-exporter/releases/tag/v1.0.0), 2 months ago) - A Prometheus exporter for tado smart heating solution
 
 #### 💬  Feedback
 
