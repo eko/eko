@@ -14,7 +14,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 📜  My recent blog posts
 
 
-- [Authz: Authorization backend using ABAC and RBAC](https://vincent.composieux.fr/article/authz-authorisation-backend-using-rbac-and-abac) (1 week ago)
+- [Authz: Authorization backend using ABAC and RBAC](https://vincent.composieux.fr/article/authz-authorisation-backend-using-rbac-and-abac) (2 weeks ago)
 - [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (11 months ago)
 - [OpenTelemetry: Trace and instrument your application code](https://vincent.composieux.fr/article/opentelemetry-trace-and-instrument-your-application-code) (1 year ago)
 - [Redis: Filter and sort your data in a SQL-like way using SORT](https://vincent.composieux.fr/article/redis-filter-and-sort-your-data-in-a-sql-like-way-using-sort) (2 years ago)
