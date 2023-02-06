@@ -14,7 +14,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 📜  My recent blog posts
 
 
-- [Authz: Authorization backend using ABAC and RBAC](https://vincent.composieux.fr/article/authz-authorisation-backend-using-rbac-and-abac) (2 weeks ago)
+- [Authz: Authorization backend using ABAC and RBAC](https://vincent.composieux.fr/article/authz-authorisation-backend-using-rbac-and-abac) (3 weeks ago)
 - [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (11 months ago)
 - [OpenTelemetry: Trace and instrument your application code](https://vincent.composieux.fr/article/opentelemetry-trace-and-instrument-your-application-code) (1 year ago)
 - [Redis: Filter and sort your data in a SQL-like way using SORT](https://vincent.composieux.fr/article/redis-filter-and-sort-your-data-in-a-sql-like-way-using-sort) (2 years ago)
@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/authz](https://github.com/eko/authz) ([v0.7.0](https://github.com/eko/authz/releases/tag/v0.7.0), 4 days ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
+- [eko/authz](https://github.com/eko/authz) ([v0.7.0](https://github.com/eko/authz/releases/tag/v0.7.0), 5 days ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 - [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) ([v1.5.0](https://github.com/graph-gophers/graphql-go/releases/tag/v1.5.0), 1 month ago) - GraphQL server with a focus on ease of use
 - [eko/gocache](https://github.com/eko/gocache) ([store/rueidis/v4.1.3](https://github.com/eko/gocache/releases/tag/store/rueidis/v4.1.3), 1 month ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 
