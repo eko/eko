@@ -23,9 +23,9 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
+- [gofiber/contrib](https://github.com/gofiber/contrib) ([v1.0.1](https://github.com/gofiber/contrib/releases/tag/v1.0.1), today) - 🧬 Repository for third party middlewares with dependencies
 - [eko/authz](https://github.com/eko/authz) ([v0.7.0](https://github.com/eko/authz/releases/tag/v0.7.0), 1 week ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 - [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) ([v1.5.0](https://github.com/graph-gophers/graphql-go/releases/tag/v1.5.0), 1 month ago) - GraphQL server with a focus on ease of use
-- [eko/gocache](https://github.com/eko/gocache) ([store/rueidis/v4.1.3](https://github.com/eko/gocache/releases/tag/store/rueidis/v4.1.3), 1 month ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 
 #### 💬  Feedback
 
