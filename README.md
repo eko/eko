@@ -5,11 +5,11 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🌱  My latest projects
 
 
+- [eko/asdf-tctl](https://github.com/eko/asdf-tctl) - Temporal tctl plugin for the asdf plugin manager
 - [eko/asdf-temporalite](https://github.com/eko/asdf-temporalite) - Temporalite plugin for the asdf plugin manager
 - [eko/authz-nodejs-sdk](https://github.com/eko/authz-nodejs-sdk) - Authz NodeJS SDK
 - [eko/authz-php-sdk](https://github.com/eko/authz-php-sdk) - Authz PHP SDK
 - [eko/authz-python-sdk](https://github.com/eko/authz-python-sdk) - Authz Python SDK
-- [eko/authz](https://github.com/eko/authz) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 
 #### 📜  My recent blog posts
 
