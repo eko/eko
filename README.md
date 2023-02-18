@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/authz](https://github.com/eko/authz) ([v0.8.0](https://github.com/eko/authz/releases/tag/v0.8.0), 5 days ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
+- [eko/authz](https://github.com/eko/authz) ([v0.8.0](https://github.com/eko/authz/releases/tag/v0.8.0), 6 days ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 - [gofiber/contrib](https://github.com/gofiber/contrib) ([v1.0.1](https://github.com/gofiber/contrib/releases/tag/v1.0.1), 1 week ago) - 🧬 Repository for third party middlewares with dependencies
 - [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) ([v1.5.0](https://github.com/graph-gophers/graphql-go/releases/tag/v1.5.0), 2 months ago) - GraphQL server with a focus on ease of use
 
