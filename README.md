@@ -15,7 +15,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 
 
 - [Authz: Authorization backend using ABAC and RBAC](https://vincent.composieux.fr/article/authz-authorisation-backend-using-rbac-and-abac) (1 month ago)
-- [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (11 months ago)
+- [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (1 year ago)
 - [OpenTelemetry: Trace and instrument your application code](https://vincent.composieux.fr/article/opentelemetry-trace-and-instrument-your-application-code) (1 year ago)
 - [Redis: Filter and sort your data in a SQL-like way using SORT](https://vincent.composieux.fr/article/redis-filter-and-sort-your-data-in-a-sql-like-way-using-sort) (2 years ago)
 - [Add automatic monitoring of your local applications with Monday](https://vincent.composieux.fr/article/add-automatic-monitoring-of-your-local-applications-with-monday) (2 years ago)
@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [gofiber/contrib](https://github.com/gofiber/contrib) ([opafiber/v1.0.2](https://github.com/gofiber/contrib/releases/tag/opafiber/v1.0.2), 1 day ago) - 🧬 Repository for third party middlewares with dependencies
+- [gofiber/contrib](https://github.com/gofiber/contrib) ([opafiber/v1.0.2](https://github.com/gofiber/contrib/releases/tag/opafiber/v1.0.2), 2 days ago) - 🧬 Repository for third party middlewares with dependencies
 - [eko/authz](https://github.com/eko/authz) ([v0.8.0](https://github.com/eko/authz/releases/tag/v0.8.0), 1 week ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 - [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) ([v1.5.0](https://github.com/graph-gophers/graphql-go/releases/tag/v1.5.0), 2 months ago) - GraphQL server with a focus on ease of use
 
