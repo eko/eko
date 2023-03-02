@@ -23,9 +23,9 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
+- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v0.4.0](https://github.com/eko/pihole-exporter/releases/tag/v0.4.0), today) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
 - [eko/gocache](https://github.com/eko/gocache) ([lib/v4.1.3](https://github.com/eko/gocache/releases/tag/lib/v4.1.3), 4 days ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [gofiber/contrib](https://github.com/gofiber/contrib) ([opafiber/v1.0.2](https://github.com/gofiber/contrib/releases/tag/opafiber/v1.0.2), 1 week ago) - 🧬 Repository for third party middlewares with dependencies
-- [eko/authz](https://github.com/eko/authz) ([v0.8.0](https://github.com/eko/authz/releases/tag/v0.8.0), 2 weeks ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 
 #### 💬  Feedback
 
