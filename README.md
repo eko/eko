@@ -23,8 +23,8 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/monday](https://github.com/eko/monday) ([v2.3.0](https://github.com/eko/monday/releases/tag/v2.3.0), 6 days ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
-- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v0.4.0](https://github.com/eko/pihole-exporter/releases/tag/v0.4.0), 6 days ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
+- [eko/monday](https://github.com/eko/monday) ([v2.3.0](https://github.com/eko/monday/releases/tag/v2.3.0), 1 week ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
+- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v0.4.0](https://github.com/eko/pihole-exporter/releases/tag/v0.4.0), 1 week ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
 - [eko/gocache](https://github.com/eko/gocache) ([lib/v4.1.3](https://github.com/eko/gocache/releases/tag/lib/v4.1.3), 1 week ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 
 #### 💬  Feedback
