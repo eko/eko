@@ -23,8 +23,8 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/authz](https://github.com/eko/authz) ([v0.8.1](https://github.com/eko/authz/releases/tag/v0.8.1), today) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
-- [eko/gocache](https://github.com/eko/gocache) ([store/redis/v4.2.0](https://github.com/eko/gocache/releases/tag/store/redis/v4.2.0), today) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
+- [eko/authz](https://github.com/eko/authz) ([v0.8.1](https://github.com/eko/authz/releases/tag/v0.8.1), 1 day ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
+- [eko/gocache](https://github.com/eko/gocache) ([store/redis/v4.2.0](https://github.com/eko/gocache/releases/tag/store/redis/v4.2.0), 1 day ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [gofiber/contrib](https://github.com/gofiber/contrib) ([casbin/v1.0.3](https://github.com/gofiber/contrib/releases/tag/casbin/v1.0.3), 1 week ago) - 🧬 Repository for third party middlewares with dependencies
 
 #### 💬  Feedback
