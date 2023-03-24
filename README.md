@@ -23,9 +23,9 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [gofiber/contrib](https://github.com/gofiber/contrib) ([fiberi18n/v0.1.0](https://github.com/gofiber/contrib/releases/tag/fiberi18n/v0.1.0), 3 days ago) - 🧬 Repository for third party middlewares with dependencies
-- [eko/authz](https://github.com/eko/authz) ([v0.8.1](https://github.com/eko/authz/releases/tag/v0.8.1), 4 days ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
-- [eko/gocache](https://github.com/eko/gocache) ([store/redis/v4.2.0](https://github.com/eko/gocache/releases/tag/store/redis/v4.2.0), 4 days ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
+- [gofiber/contrib](https://github.com/gofiber/contrib) ([fiberi18n/v0.1.0](https://github.com/gofiber/contrib/releases/tag/fiberi18n/v0.1.0), 4 days ago) - 🧬 Repository for third party middlewares with dependencies
+- [eko/authz](https://github.com/eko/authz) ([v0.8.1](https://github.com/eko/authz/releases/tag/v0.8.1), 5 days ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
+- [eko/gocache](https://github.com/eko/gocache) ([store/redis/v4.2.0](https://github.com/eko/gocache/releases/tag/store/redis/v4.2.0), 5 days ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 
 #### 💬  Feedback
 
