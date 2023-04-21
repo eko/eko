@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [gofiber/contrib](https://github.com/gofiber/contrib) ([swagger/v1.0.4](https://github.com/gofiber/contrib/releases/tag/swagger/v1.0.4), 2 days ago) - 🧬 Repository for third party middlewares with dependencies
+- [gofiber/contrib](https://github.com/gofiber/contrib) ([swagger/v1.0.4](https://github.com/gofiber/contrib/releases/tag/swagger/v1.0.4), 3 days ago) - 🧬 Repository for third party middlewares with dependencies
 - [eko/gocache](https://github.com/eko/gocache) ([store/hazelcast/v4.1.0](https://github.com/eko/gocache/releases/tag/store/hazelcast/v4.1.0), 3 weeks ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [eko/authz](https://github.com/eko/authz) ([v0.8.1](https://github.com/eko/authz/releases/tag/v0.8.1), 1 month ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 
