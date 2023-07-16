@@ -23,8 +23,8 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/tado-exporter](https://github.com/eko/tado-exporter) ([v1.1.0](https://github.com/eko/tado-exporter/releases/tag/v1.1.0), 3 days ago) - A Prometheus exporter for tado smart heating solution
-- [gofiber/contrib](https://github.com/gofiber/contrib) ([fiberzerolog/v0.1.3](https://github.com/gofiber/contrib/releases/tag/fiberzerolog/v0.1.3), 6 days ago) - 🧬 Repository for third party middlewares with dependencies
+- [eko/tado-exporter](https://github.com/eko/tado-exporter) ([v1.1.0](https://github.com/eko/tado-exporter/releases/tag/v1.1.0), 4 days ago) - A Prometheus exporter for tado smart heating solution
+- [gofiber/contrib](https://github.com/gofiber/contrib) ([fiberzerolog/v0.1.3](https://github.com/gofiber/contrib/releases/tag/fiberzerolog/v0.1.3), 1 week ago) - 🧬 Repository for third party middlewares with dependencies
 - [eko/gocache](https://github.com/eko/gocache) ([store/rueidis/v4.1.4](https://github.com/eko/gocache/releases/tag/store/rueidis/v4.1.4), 1 week ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 
 #### 💬  Feedback
