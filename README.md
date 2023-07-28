@@ -14,7 +14,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 📜  My recent blog posts
 
 
-- [Construct robust workflows with Temporal.io using Go](https://vincent.composieux.fr/article/construct-robust-workflows-with-temporal-using-go) (1 month ago)
+- [Construct robust workflows with Temporal.io using Go](https://vincent.composieux.fr/article/construct-robust-workflows-with-temporal-using-go) (2 months ago)
 - [Authz: Authorization backend using ABAC and RBAC](https://vincent.composieux.fr/article/authz-authorisation-backend-using-rbac-and-abac) (6 months ago)
 - [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (1 year ago)
 - [OpenTelemetry: Trace and instrument your application code](https://vincent.composieux.fr/article/opentelemetry-trace-and-instrument-your-application-code) (2 years ago)
@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/authz](https://github.com/eko/authz) ([v0.8.4](https://github.com/eko/authz/releases/tag/v0.8.4), 5 days ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
+- [eko/authz](https://github.com/eko/authz) ([v0.8.4](https://github.com/eko/authz/releases/tag/v0.8.4), 6 days ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 - [gofiber/contrib](https://github.com/gofiber/contrib) ([fiberzerolog/v0.1.4](https://github.com/gofiber/contrib/releases/tag/fiberzerolog/v0.1.4), 1 week ago) - 🧬 Repository for third party middlewares with dependencies
 - [eko/tado-exporter](https://github.com/eko/tado-exporter) ([v1.1.0](https://github.com/eko/tado-exporter/releases/tag/v1.1.0), 2 weeks ago) - A Prometheus exporter for tado smart heating solution
 
