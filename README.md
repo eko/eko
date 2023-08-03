@@ -24,7 +24,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 
 
 - [eko/authz](https://github.com/eko/authz) ([v0.8.4](https://github.com/eko/authz/releases/tag/v0.8.4), 1 week ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
-- [gofiber/contrib](https://github.com/gofiber/contrib) ([fiberzerolog/v0.1.4](https://github.com/gofiber/contrib/releases/tag/fiberzerolog/v0.1.4), 1 week ago) - 🧬 Repository for third party middlewares with dependencies
+- [gofiber/contrib](https://github.com/gofiber/contrib) ([fiberzerolog/v0.1.4](https://github.com/gofiber/contrib/releases/tag/fiberzerolog/v0.1.4), 2 weeks ago) - 🧬 Repository for third party middlewares with dependencies
 - [eko/tado-exporter](https://github.com/eko/tado-exporter) ([v1.1.0](https://github.com/eko/tado-exporter/releases/tag/v1.1.0), 3 weeks ago) - A Prometheus exporter for tado smart heating solution
 
 #### 💬  Feedback
