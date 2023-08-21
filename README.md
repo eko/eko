@@ -16,7 +16,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 
 - [Construct robust workflows with Temporal.io using Go](https://vincent.composieux.fr/article/construct-robust-workflows-with-temporal-using-go) (2 months ago)
 - [Authz: Authorization backend using ABAC and RBAC](https://vincent.composieux.fr/article/authz-authorisation-backend-using-rbac-and-abac) (7 months ago)
-- [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (1 year ago)
+- [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (2 years ago)
 - [OpenTelemetry: Trace and instrument your application code](https://vincent.composieux.fr/article/opentelemetry-trace-and-instrument-your-application-code) (2 years ago)
 - [Redis: Filter and sort your data in a SQL-like way using SORT](https://vincent.composieux.fr/article/redis-filter-and-sort-your-data-in-a-sql-like-way-using-sort) (2 years ago)
 
@@ -25,7 +25,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 
 - [gofiber/contrib](https://github.com/gofiber/contrib) ([fiberzerolog/v0.2.0](https://github.com/gofiber/contrib/releases/tag/fiberzerolog/v0.2.0), 1 week ago) - 🧬 Repository for third party middlewares with dependencies
 - [eko/gocache](https://github.com/eko/gocache) ([lib/v4.1.4](https://github.com/eko/gocache/releases/tag/lib/v4.1.4), 1 week ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
-- [eko/authz](https://github.com/eko/authz) ([v0.8.4](https://github.com/eko/authz/releases/tag/v0.8.4), 4 weeks ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
+- [eko/authz](https://github.com/eko/authz) ([v0.8.4](https://github.com/eko/authz/releases/tag/v0.8.4), 1 month ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 
 #### 💬  Feedback
 
