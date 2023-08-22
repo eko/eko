@@ -24,7 +24,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 
 
 - [gofiber/contrib](https://github.com/gofiber/contrib) ([fiberzerolog/v0.2.0](https://github.com/gofiber/contrib/releases/tag/fiberzerolog/v0.2.0), 1 week ago) - 🧬 Repository for third party middlewares with dependencies
-- [eko/gocache](https://github.com/eko/gocache) ([lib/v4.1.4](https://github.com/eko/gocache/releases/tag/lib/v4.1.4), 1 week ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
+- [eko/gocache](https://github.com/eko/gocache) ([lib/v4.1.4](https://github.com/eko/gocache/releases/tag/lib/v4.1.4), 2 weeks ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [eko/authz](https://github.com/eko/authz) ([v0.8.4](https://github.com/eko/authz/releases/tag/v0.8.4), 1 month ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 
 #### 💬  Feedback
