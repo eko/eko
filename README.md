@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [gofiber/contrib](https://github.com/gofiber/contrib) ([fiberi18n/v2.0.1](https://github.com/gofiber/contrib/releases/tag/fiberi18n/v2.0.1), 1 week ago) - 🧬 Repository for third party middlewares with dependencies
+- [gofiber/contrib](https://github.com/gofiber/contrib) ([fiberi18n/v2.0.1](https://github.com/gofiber/contrib/releases/tag/fiberi18n/v2.0.1), 2 weeks ago) - 🧬 Repository for third party middlewares with dependencies
 - [eko/authz](https://github.com/eko/authz) ([v0.9.1](https://github.com/eko/authz/releases/tag/v0.9.1), 3 weeks ago) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
 - [eko/gocache](https://github.com/eko/gocache) ([store/freecache/v4.2.1](https://github.com/eko/gocache/releases/tag/store/freecache/v4.2.1), 3 weeks ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 
