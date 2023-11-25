@@ -14,7 +14,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 📜  My recent blog posts
 
 
-- [Construct robust workflows with Temporal.io using Go](https://vincent.composieux.fr/article/construct-robust-workflows-with-temporal-using-go) (5 months ago)
+- [Construct robust workflows with Temporal.io using Go](https://vincent.composieux.fr/article/construct-robust-workflows-with-temporal-using-go) (6 months ago)
 - [Authz: Authorization backend using ABAC and RBAC](https://vincent.composieux.fr/article/authz-authorisation-backend-using-rbac-and-abac) (10 months ago)
 - [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (2 years ago)
 - [OpenTelemetry: Trace and instrument your application code](https://vincent.composieux.fr/article/opentelemetry-trace-and-instrument-your-application-code) (2 years ago)
