@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [fasterci/rules_gitops](https://github.com/fasterci/rules_gitops) ([v0.30.0](https://github.com/fasterci/rules_gitops/releases/tag/v0.30.0), today) - 
+- [fasterci/rules_gitops](https://github.com/fasterci/rules_gitops) ([v0.30.0](https://github.com/fasterci/rules_gitops/releases/tag/v0.30.0), 1 day ago) - 
 - [eko/FeedBundle](https://github.com/eko/FeedBundle) ([2.2.0](https://github.com/eko/FeedBundle/releases/tag/2.2.0), 3 months ago) - A Symfony bundle to build RSS feeds from your entities
 - [eko/monday](https://github.com/eko/monday) ([v2.4.0](https://github.com/eko/monday/releases/tag/v2.4.0), 5 months ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 
