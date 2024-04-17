@@ -23,8 +23,8 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/gocache](https://github.com/eko/gocache) ([lib/v4.1.6](https://github.com/eko/gocache/releases/tag/lib/v4.1.6), today) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
-- [fasterci/rules_gitops](https://github.com/fasterci/rules_gitops) ([v0.30.0](https://github.com/fasterci/rules_gitops/releases/tag/v0.30.0), 1 day ago) - 
+- [eko/gocache](https://github.com/eko/gocache) ([lib/v4.1.6](https://github.com/eko/gocache/releases/tag/lib/v4.1.6), 1 day ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
+- [fasterci/rules_gitops](https://github.com/fasterci/rules_gitops) ([v0.30.0](https://github.com/fasterci/rules_gitops/releases/tag/v0.30.0), 2 days ago) - 
 - [eko/FeedBundle](https://github.com/eko/FeedBundle) ([2.2.0](https://github.com/eko/FeedBundle/releases/tag/2.2.0), 3 months ago) - A Symfony bundle to build RSS feeds from your entities
 
 #### 💬  Feedback
