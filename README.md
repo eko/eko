@@ -23,9 +23,9 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
+- [etf1/kafka-transformer](https://github.com/etf1/kafka-transformer) ([v0.0.7](https://github.com/etf1/kafka-transformer/releases/tag/v0.0.7), today) - kafka-transformer is a library for simplyfing message transformation tasks when using kafka
 - [eko/gocache](https://github.com/eko/gocache) ([store/hazelcast/v4.2.0](https://github.com/eko/gocache/releases/tag/store/hazelcast/v4.2.0), 2 weeks ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [eko/FeedBundle](https://github.com/eko/FeedBundle) ([2.2.0](https://github.com/eko/FeedBundle/releases/tag/2.2.0), 6 months ago) - A Symfony bundle to build RSS feeds from your entities
-- [eko/monday](https://github.com/eko/monday) ([v2.4.0](https://github.com/eko/monday/releases/tag/v2.4.0), 8 months ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 
 #### 💬  Feedback
 
