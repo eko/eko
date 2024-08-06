@@ -14,7 +14,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 📜  My recent blog posts
 
 
-- [LLM with Ollama and similarity search with Qdrant, vector database](https://vincent.composieux.fr/article/llm-with-ollama-and-similarity-search-with-qdrant-vector-database) (4 months ago)
+- [LLM with Ollama and similarity search with Qdrant, vector database](https://vincent.composieux.fr/article/llm-with-ollama-and-similarity-search-with-qdrant-vector-database) (5 months ago)
 - [Construct robust workflows with Temporal.io using Go](https://vincent.composieux.fr/article/construct-robust-workflows-with-temporal-using-go) (1 year ago)
 - [Authz: Authorization backend using ABAC and RBAC](https://vincent.composieux.fr/article/authz-authorisation-backend-using-rbac-and-abac) (2 years ago)
 - [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (2 years ago)
@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/monday](https://github.com/eko/monday) ([v2.5.0](https://github.com/eko/monday/releases/tag/v2.5.0), 4 days ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
+- [eko/monday](https://github.com/eko/monday) ([v2.5.0](https://github.com/eko/monday/releases/tag/v2.5.0), 5 days ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 - [etf1/kafka-transformer](https://github.com/etf1/kafka-transformer) ([v0.0.7](https://github.com/etf1/kafka-transformer/releases/tag/v0.0.7), 1 month ago) - kafka-transformer is a library for simplyfing message transformation tasks when using kafka
 - [eko/gocache](https://github.com/eko/gocache) ([store/hazelcast/v4.2.0](https://github.com/eko/gocache/releases/tag/store/hazelcast/v4.2.0), 1 month ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 
