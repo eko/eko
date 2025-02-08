@@ -14,11 +14,11 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 📜  My recent blog posts
 
 
+- [Optimizing build times with Bazel and Buildfarm](https://vincent.composieux.fr/article/optimize-build-times-with-bazel-and-buildfarm) (today)
 - [LLM with Ollama and similarity search with Qdrant, vector database](https://vincent.composieux.fr/article/llm-with-ollama-and-similarity-search-with-qdrant-vector-database) (11 months ago)
 - [Construct robust workflows with Temporal.io using Go](https://vincent.composieux.fr/article/construct-robust-workflows-with-temporal-using-go) (2 years ago)
 - [Authz: Authorization backend using ABAC and RBAC](https://vincent.composieux.fr/article/authz-authorisation-backend-using-rbac-and-abac) (2 years ago)
 - [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (2 years ago)
-- [OpenTelemetry: Trace and instrument your application code](https://vincent.composieux.fr/article/opentelemetry-trace-and-instrument-your-application-code) (3 years ago)
 
 #### 🔭  Latest releases I've contributed to
 
