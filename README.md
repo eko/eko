@@ -14,7 +14,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 📜  My recent blog posts
 
 
-- [Optimizing build times with Bazel and Buildfarm](https://vincent.composieux.fr/article/optimize-build-times-with-bazel-and-buildfarm) (3 months ago)
+- [Optimizing build times with Bazel and Buildfarm](https://vincent.composieux.fr/article/optimize-build-times-with-bazel-and-buildfarm) (4 months ago)
 - [LLM with Ollama and similarity search with Qdrant, vector database](https://vincent.composieux.fr/article/llm-with-ollama-and-similarity-search-with-qdrant-vector-database) (1 year ago)
 - [Construct robust workflows with Temporal.io using Go](https://vincent.composieux.fr/article/construct-robust-workflows-with-temporal-using-go) (2 years ago)
 - [Authz: Authorization backend using ABAC and RBAC](https://vincent.composieux.fr/article/authz-authorisation-backend-using-rbac-and-abac) (2 years ago)
@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) ([v2.3.3](https://github.com/JohannesKaufmann/html-to-markdown/releases/tag/v2.3.3), 1 week ago) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) ([v2.3.3](https://github.com/JohannesKaufmann/html-to-markdown/releases/tag/v2.3.3), 2 weeks ago) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v1.1.0](https://github.com/eko/pihole-exporter/releases/tag/v1.1.0), 1 month ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
 - [eko/gocache](https://github.com/eko/gocache) ([lib/v4.2.0](https://github.com/eko/gocache/releases/tag/lib/v4.2.0), 5 months ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 
