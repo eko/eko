@@ -23,9 +23,9 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) ([v2.4.0](https://github.com/JohannesKaufmann/html-to-markdown/releases/tag/v2.4.0), today) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v1.2.0](https://github.com/eko/pihole-exporter/releases/tag/v1.2.0), 3 weeks ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
 - [fasterci/rules_gitops](https://github.com/fasterci/rules_gitops) ([v0.33.0](https://github.com/fasterci/rules_gitops/releases/tag/v0.33.0), 2 months ago) - 
-- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) ([v2.3.3](https://github.com/JohannesKaufmann/html-to-markdown/releases/tag/v2.3.3), 3 months ago) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 
 #### 💬  Feedback
 
