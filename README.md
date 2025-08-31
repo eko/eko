@@ -15,7 +15,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 
 
 - [Optimizing build times with Bazel and Buildfarm](https://vincent.composieux.fr/article/optimize-build-times-with-bazel-and-buildfarm) (6 months ago)
-- [LLM with Ollama and similarity search with Qdrant, vector database](https://vincent.composieux.fr/article/llm-with-ollama-and-similarity-search-with-qdrant-vector-database) (1 year ago)
+- [LLM with Ollama and similarity search with Qdrant, vector database](https://vincent.composieux.fr/article/llm-with-ollama-and-similarity-search-with-qdrant-vector-database) (2 years ago)
 - [Construct robust workflows with Temporal.io using Go](https://vincent.composieux.fr/article/construct-robust-workflows-with-temporal-using-go) (2 years ago)
 - [Authz: Authorization backend using ABAC and RBAC](https://vincent.composieux.fr/article/authz-authorisation-backend-using-rbac-and-abac) (2 years ago)
 - [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (3 years ago)
@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) ([v2.4.0](https://github.com/JohannesKaufmann/html-to-markdown/releases/tag/v2.4.0), 6 days ago) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) ([v2.4.0](https://github.com/JohannesKaufmann/html-to-markdown/releases/tag/v2.4.0), 1 week ago) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v1.2.0](https://github.com/eko/pihole-exporter/releases/tag/v1.2.0), 1 month ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
 - [fasterci/rules_gitops](https://github.com/fasterci/rules_gitops) ([v0.33.0](https://github.com/fasterci/rules_gitops/releases/tag/v0.33.0), 2 months ago) - 
 
