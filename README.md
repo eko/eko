@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [fasterci/rules_gitops](https://github.com/fasterci/rules_gitops) ([v1.0.0](https://github.com/fasterci/rules_gitops/releases/tag/v1.0.0), 1 week ago) - 
+- [fasterci/rules_gitops](https://github.com/fasterci/rules_gitops) ([v1.0.0](https://github.com/fasterci/rules_gitops/releases/tag/v1.0.0), 2 weeks ago) - 
 - [eko/gocache](https://github.com/eko/gocache) ([store/redis/v4.2.5](https://github.com/eko/gocache/releases/tag/store/redis/v4.2.5), 1 month ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) ([v2.4.0](https://github.com/JohannesKaufmann/html-to-markdown/releases/tag/v2.4.0), 3 months ago) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 
