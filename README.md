@@ -18,7 +18,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 - [LLM with Ollama and similarity search with Qdrant, vector database](https://vincent.composieux.fr/article/llm-with-ollama-and-similarity-search-with-qdrant-vector-database) (2 years ago)
 - [Construct robust workflows with Temporal.io using Go](https://vincent.composieux.fr/article/construct-robust-workflows-with-temporal-using-go) (2 years ago)
 - [Authz: Authorization backend using ABAC and RBAC](https://vincent.composieux.fr/article/authz-authorisation-backend-using-rbac-and-abac) (3 years ago)
-- [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (3 years ago)
+- [Dependency injection in Go with uber-go/fx](https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx) (4 years ago)
 
 #### 🔭  Latest releases I've contributed to
 
