@@ -25,7 +25,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 
 - [eko/gocache](https://github.com/eko/gocache) ([store/redis/v4.2.6](https://github.com/eko/gocache/releases/tag/store/redis/v4.2.6), 2 months ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [fasterci/rules_gitops](https://github.com/fasterci/rules_gitops) ([v1.0.0](https://github.com/fasterci/rules_gitops/releases/tag/v1.0.0), 3 months ago) - 
-- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v1.2.0](https://github.com/eko/pihole-exporter/releases/tag/v1.2.0), 6 months ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
+- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v1.2.0](https://github.com/eko/pihole-exporter/releases/tag/v1.2.0), 7 months ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
 
 #### 💬  Feedback
 
