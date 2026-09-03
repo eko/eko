@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [sandflow/ttconv](https://github.com/sandflow/ttconv) ([1.2.3](https://github.com/sandflow/ttconv/releases/tag/1.2.3), 3 days ago) - Subtitle conversion library and CLI tool. Converts between STL, SRT, TTML, SCC, TTML and WebVTT files.
+- [sandflow/ttconv](https://github.com/sandflow/ttconv) ([1.2.3](https://github.com/sandflow/ttconv/releases/tag/1.2.3), 4 days ago) - Subtitle conversion library and CLI tool. Converts between STL, SRT, TTML, SCC, TTML and WebVTT files.
 - [eko/gocache](https://github.com/eko/gocache) ([lib/v4.2.4](https://github.com/eko/gocache/releases/tag/lib/v4.2.4), 1 month ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [eko/monday](https://github.com/eko/monday) ([v2.6.1](https://github.com/eko/monday/releases/tag/v2.6.1), 1 month ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 
