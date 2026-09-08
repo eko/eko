@@ -23,9 +23,9 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
+- [eko/gocache](https://github.com/eko/gocache) ([lib/v4.2.5](https://github.com/eko/gocache/releases/tag/lib/v4.2.5), today) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [eko/microcast](https://github.com/eko/microcast) ([v1.3.0](https://github.com/eko/microcast/releases/tag/v1.3.0), today) - Turn any audio input or the apps themselves into a live stream
 - [sandflow/ttconv](https://github.com/sandflow/ttconv) ([1.2.3](https://github.com/sandflow/ttconv/releases/tag/1.2.3), 1 week ago) - Subtitle conversion library and CLI tool. Converts between STL, SRT, TTML, SCC, TTML and WebVTT files.
-- [eko/gocache](https://github.com/eko/gocache) ([lib/v4.2.4](https://github.com/eko/gocache/releases/tag/lib/v4.2.4), 1 month ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 
 #### 💬  Feedback
 
