@@ -5,11 +5,11 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🌱  My latest projects
 
 
+- [eko/qc](https://github.com/eko/qc) - A video quality control and VMAF-related ladder optimizer CLI and library
 - [eko/microcast](https://github.com/eko/microcast) - Turn any audio input or the apps themselves into a live stream
 - [eko/asdf-tctl](https://github.com/eko/asdf-tctl) - Temporal tctl plugin for the asdf plugin manager
 - [eko/asdf-temporalite](https://github.com/eko/asdf-temporalite) - Temporalite plugin for the asdf plugin manager
 - [eko/authz-nodejs-sdk](https://github.com/eko/authz-nodejs-sdk) - Authz NodeJS SDK
-- [eko/authz-php-sdk](https://github.com/eko/authz-php-sdk) - Authz PHP SDK
 
 #### 📜  My recent blog posts
 
