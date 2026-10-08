@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/qc](https://github.com/eko/qc) ([v1.2.0](https://github.com/eko/qc/releases/tag/v1.2.0), 5 days ago) - A video quality control and VMAF-related ladder optimizer CLI and library
+- [eko/qc](https://github.com/eko/qc) ([v1.2.1](https://github.com/eko/qc/releases/tag/v1.2.1), today) - A video quality control and VMAF-related ladder optimizer CLI and library
 - [eko/gocache](https://github.com/eko/gocache) ([store/nats/v1.0.0](https://github.com/eko/gocache/releases/tag/store/nats/v1.0.0), 5 days ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [eko/microcast](https://github.com/eko/microcast) ([v1.4.0](https://github.com/eko/microcast/releases/tag/v1.4.0), 3 weeks ago) - Turn any audio input or the apps themselves into a live stream
 
