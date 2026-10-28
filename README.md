@@ -23,9 +23,9 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
+- [eko/mcp-tiime](https://github.com/eko/mcp-tiime) ([v1.0.0](https://github.com/eko/mcp-tiime/releases/tag/v1.0.0), today) - Tiime.fr MCP Server
 - [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v1.3.0](https://github.com/eko/pihole-exporter/releases/tag/v1.3.0), 2 days ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
 - [eko/qc](https://github.com/eko/qc) ([v1.4.0](https://github.com/eko/qc/releases/tag/v1.4.0), 5 days ago) - A video quality control and VMAF-related ladder optimizer CLI and library
-- [eko/gocache](https://github.com/eko/gocache) ([store/nats/v1.0.0](https://github.com/eko/gocache/releases/tag/store/nats/v1.0.0), 3 weeks ago) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 
 #### 💬  Feedback
 
