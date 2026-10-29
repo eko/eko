@@ -23,7 +23,7 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/mcp-tiime](https://github.com/eko/mcp-tiime) ([v1.0.0](https://github.com/eko/mcp-tiime/releases/tag/v1.0.0), 1 day ago) - Tiime.fr MCP Server
+- [eko/mcp-tiime](https://github.com/eko/mcp-tiime) ([v1.0.1](https://github.com/eko/mcp-tiime/releases/tag/v1.0.1), today) - Tiime.fr MCP Server
 - [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v1.3.0](https://github.com/eko/pihole-exporter/releases/tag/v1.3.0), 3 days ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
 - [eko/qc](https://github.com/eko/qc) ([v1.4.0](https://github.com/eko/qc/releases/tag/v1.4.0), 6 days ago) - A video quality control and VMAF-related ladder optimizer CLI and library
 
