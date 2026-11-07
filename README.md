@@ -23,8 +23,8 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [archyl-com/cli](https://github.com/archyl-com/cli) ([v1.0.1](https://github.com/archyl-com/cli/releases/tag/v1.0.1), 3 days ago) - Archyl CLI. Your architecture, in the terminal.
-- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v1.3.1](https://github.com/eko/pihole-exporter/releases/tag/v1.3.1), 6 days ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
+- [archyl-com/cli](https://github.com/archyl-com/cli) ([v1.0.1](https://github.com/archyl-com/cli/releases/tag/v1.0.1), 4 days ago) - Archyl CLI. Your architecture, in the terminal.
+- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v1.3.1](https://github.com/eko/pihole-exporter/releases/tag/v1.3.1), 1 week ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
 - [eko/mcp-tiime](https://github.com/eko/mcp-tiime) ([v1.0.2](https://github.com/eko/mcp-tiime/releases/tag/v1.0.2), 1 week ago) - Tiime.fr MCP Server
 
 #### 💬  Feedback
