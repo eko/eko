@@ -23,9 +23,9 @@ I'm Vincent. I work with open-source for so many years and I love to discover, c
 #### 🔭  Latest releases I've contributed to
 
 
-- [eko/monday](https://github.com/eko/monday) ([v2.7.0](https://github.com/eko/monday/releases/tag/v2.7.0), 2 days ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
-- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) ([v1.4.0](https://github.com/eko/pihole-exporter/releases/tag/v1.4.0), 2 days ago) - A Prometheus exporter for PI-Hole&#39;s Raspberry PI ad blocker
-- [archyl-com/cli](https://github.com/archyl-com/cli) ([v1.0.1](https://github.com/archyl-com/cli/releases/tag/v1.0.1), 2 weeks ago) - Archyl CLI. Your architecture, in the terminal.
+- [archyl-com/cli](https://github.com/archyl-com/cli) ([v1.1.0](https://github.com/archyl-com/cli/releases/tag/v1.1.0), 1 day ago) - Archyl CLI. Your architecture, in the terminal.
+- [archyl-com/actions](https://github.com/archyl-com/actions) ([v1.1.0](https://github.com/archyl-com/actions/releases/tag/v1.1.0), 1 day ago) - GitHub Actions for Archyl.com
+- [eko/monday](https://github.com/eko/monday) ([v2.7.0](https://github.com/eko/monday/releases/tag/v2.7.0), 3 days ago) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 
 #### 💬  Feedback
 
